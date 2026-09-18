@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace with the final GitHub Pages URL:
-# Sitemap: https://YOUR-USERNAME.github.io/realtyai/sitemap.xml

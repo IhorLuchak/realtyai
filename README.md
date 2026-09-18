@@ -1,12 +1,13 @@
 # REALTYAI Landing Page
 
-Static, self-contained landing page for REALTYAI.
+Готовий статичний лендинг REALTYAI для GitHub Pages.
 
-## GitHub Pages
+## Публікація
 
-1. Upload `index.html` to the root of a GitHub repository.
-2. Open **Settings → Pages**.
-3. Select **Deploy from a branch**, choose the main branch and `/ (root)`.
-4. Save and wait for deployment.
+1. Завантажте всі файли та папки з цього архіву в корінь репозиторію.
+2. Відкрийте **Settings → Pages**.
+3. У **Build and deployment** виберіть **Deploy from a branch**.
+4. Branch: **main**, папка: **/ (root)**.
+5. Натисніть **Save**.
 
-The page currently uses Telegram links for the main calls to action.
+Важливо: завантажуйте не сам ZIP, а всі файли з нього: `index.html`, папки `css`, `js`, `assets`, а також `robots.txt` і `sitemap.xml`.
